@@ -130,6 +130,5 @@ func testGetCharactersSuccess() async throws {
 ---
 
 📌 **Autor:** Nelson Peña Agudelo  
-📌 **Repositorio:** [RickAndMortyApp](https://github.com/nelsonPena/RickandMortyApp)  
 📌 **Contacto:** [nelson.pena@email.com](mailto:vald3z32@gmail.com)
 
